@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>code theme</title>
+  <style>
+  .body { color='ff0000' }
+</head>
+<body class='body'>
+</body>
+</html>
